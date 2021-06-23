@@ -30,8 +30,7 @@ public class InitCap {
 }
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
-		// Fill the code
-		System.out.println("Enter the String:");
+		System.out.println("Enter the String");
 		String str=sc.nextLine();
 		convert(str);
 	}
